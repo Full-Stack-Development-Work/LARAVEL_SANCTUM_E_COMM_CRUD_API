@@ -17,7 +17,7 @@ DB_PASSWORD=
 ```
 
 
-- set-up for localhbost:
+## set-up for localhbost:
 - composer install/composer update
 - php artisan key:generate
 - php artisan migrate
